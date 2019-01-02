@@ -1,2 +1,2 @@
 # srilankan-nic-reader
-Extract information from a Sri Lankan NIC number
+This script can extract the date of birth and the gender from a Sri Lankan NIC number
